@@ -1,0 +1,44 @@
+{"Work":[
+{
+    "No": "1",
+    "Place": "Viskan",
+    "Desc": "Verkstads arbete med fokus på produktion av metalvaror"
+},
+{
+    "No": "2",
+    "Place": "Ringhals",
+    "Desc": "Luckvakt för en trumma som arbetades på"
+},
+{
+    "No": "3",
+    "Place": "Lindbergs Kyrka",
+    "Desc": "Nattvakt på konfirmations läger"
+},
+{
+    "No": "4",
+    "Place": "Industriundehåll",
+    "Desc": "Industri arbete med fokus på underhåll av maskiner"
+}
+],
+"Education":[
+    {
+        "School": "Peder-skrivare skola varberg",
+        "Major": "Industri-teknik med fokus på svetsning",
+        "Time": "2014-2017"
+    },
+    
+    {
+        "School": "NTI-Skolan",
+        "Major": "Programering 1 och Matematik 2A",
+        "Time": "2022-2022"
+    },
+    {
+        "School": "Campus Varberg",
+        "Major": "Systemutveckling .NET",
+        "Time": "2022-Pågående"
+    }
+    
+    
+]
+
+}
